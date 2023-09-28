@@ -21,14 +21,20 @@ In another way If u think that you have an idea that can fit with LowScript, exi
 LowScript have an standard library that offers differents utilities for differents purposes, make net connections, read files, generate UUID, manage JSON data, etc...</br>
 
 The utilities that LowScript should implements are:
-  - Net connections
-  - Disk data manipulations (basics operations at least)
-    - Read files
-    - Write files
-    - Create files
-    - Delete files
-  - .
-  - .
-  - .
-  - .
-  - .
+  - net - (Net connections)
+  - io - (data manipulations)
+    - Read file(s)
+    - Write file(s)
+    - Create file(s)
+    - Delete file(s)
+    - Encrypt streams (file(s), stream(s))
+  - thread - (Threads manipulation)
+  - zip - (ZIP compression manipulation)
+    - Compress file(s)
+    - Decompress file(s)
+  - http - (HTTP implementation)
+  - os - (OS manipulation and OS characteristic)
+  - time - (Time manipulation)
+  - stream - (Stream(s) manipulation)
+  - path - (Path(s) manipulation)
+  - uuid - (UUID generation and manipulation)
